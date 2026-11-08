@@ -1,0 +1,22 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
+data/
+artifacts/*
+!artifacts/.gitkeep
+reports/*
+!reports/.gitkeep
+*.log
+
+# Do not add the large original measurement files to source control.
+Vibration, Acoustic, Temperature, and Motor Current Dataset of Rotating Machine Under Varying Load Conditions for Fault Diagnosis/
