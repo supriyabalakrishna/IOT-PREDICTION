@@ -229,3 +229,5 @@ The automated tests cover deterministic features, malformed data, source-label n
 - Data labels describe recorded operating conditions. This classifier is not validated for future failure timing, remaining life, other machines, or field deployment.
 - No physical machine, live sensor hardware, notification provider, user-account/role service, or ground-truth-driven online performance monitoring workflow is available in this workspace.
 - PostgreSQL/Mosquitto/frontend Compose definitions are provided, but containers cannot be claimed healthy until Docker is running and the full stack is started and verified.
+#   I O T - P R E D I C T I O N  
+ 
